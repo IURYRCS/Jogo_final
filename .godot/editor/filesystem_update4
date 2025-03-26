@@ -1,0 +1,9 @@
+res://player.tscn
+res://hud.tscn
+res://mob.tscn
+res://main.gd
+res://fonts/FONTLOG.txt
+res://fonts/LICENSE.txt
+res://player.gd
+res://timer.gd
+res://hud.gd
